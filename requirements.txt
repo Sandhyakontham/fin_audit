@@ -1,0 +1,8 @@
+pandas
+streamlit
+
+# Local mode (Ollama) -- only needed if LLM_BACKEND=local (the default)
+ollama
+
+# Gemini mode -- only needed if LLM_BACKEND=gemini
+google-genai
